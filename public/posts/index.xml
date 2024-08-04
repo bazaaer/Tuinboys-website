@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Tuinboys</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://s144272.devops-ap.be/posts/</link>
     <description>Recent content in Posts on Tuinboys</description>
     <generator>Hugo</generator>
-    <language>nl</language>
+    <language>be-nl</language>
     <lastBuildDate>Thu, 02 May 2024 12:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://s144272.devops-ap.be/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Third Post</title>
-      <link>http://localhost:1313/posts/third-post/</link>
+      <link>https://s144272.devops-ap.be/posts/third-post/</link>
       <pubDate>Thu, 02 May 2024 12:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/third-post/</guid>
+      <guid>https://s144272.devops-ap.be/posts/third-post/</guid>
       <description>This is the summary of the second post.</description>
     </item>
     <item>
       <title>Second Post</title>
-      <link>http://localhost:1313/posts/second-post/</link>
+      <link>https://s144272.devops-ap.be/posts/second-post/</link>
       <pubDate>Fri, 02 Feb 2024 12:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/second-post/</guid>
+      <guid>https://s144272.devops-ap.be/posts/second-post/</guid>
       <description>This is the summary of the second post.</description>
     </item>
     <item>
       <title>First Post</title>
-      <link>http://localhost:1313/posts/first-post/</link>
+      <link>https://s144272.devops-ap.be/posts/first-post/</link>
       <pubDate>Sat, 01 Jan 2022 12:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/first-post/</guid>
+      <guid>https://s144272.devops-ap.be/posts/first-post/</guid>
       <description>This is the summary of the first post.</description>
     </item>
   </channel>

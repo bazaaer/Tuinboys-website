@@ -1,5 +1,5 @@
-baseURL = 'https://example.org/'
-languageCode = 'nl'
+baseURL = 'https://s144272.devops-ap.be/'
+languageCode = 'be-nl'
 title = 'Tuinboys'
 
 
