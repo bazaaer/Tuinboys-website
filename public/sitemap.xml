@@ -2,33 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://s144272.devops-ap.be/</loc>
     <lastmod>2024-05-02T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://s144272.devops-ap.be/posts/</loc>
     <lastmod>2024-05-02T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/third-post/</loc>
+    <loc>https://s144272.devops-ap.be/posts/third-post/</loc>
     <lastmod>2024-05-02T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/second-post/</loc>
+    <loc>https://s144272.devops-ap.be/posts/second-post/</loc>
     <lastmod>2024-02-02T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/first-post/</loc>
+    <loc>https://s144272.devops-ap.be/posts/first-post/</loc>
     <lastmod>2022-01-01T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://s144272.devops-ap.be/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/services/lawn/</loc>
+    <loc>https://s144272.devops-ap.be/services/lawn/</loc>
   </url><url>
-    <loc>http://localhost:1313/services/hedge/</loc>
+    <loc>https://s144272.devops-ap.be/services/hedge/</loc>
   </url><url>
-    <loc>http://localhost:1313/license/</loc>
+    <loc>https://s144272.devops-ap.be/license/</loc>
   </url><url>
-    <loc>http://localhost:1313/legal/</loc>
+    <loc>https://s144272.devops-ap.be/legal/</loc>
   </url><url>
-    <loc>http://localhost:1313/services/</loc>
+    <loc>https://s144272.devops-ap.be/services/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://s144272.devops-ap.be/tags/</loc>
   </url>
 </urlset>
