@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Services on Tuinboys</title>
-    <link>https://s144272.devops-ap.be/services/</link>
+    <link>http://localhost:1313/services/</link>
     <description>Recent content in Services on Tuinboys</description>
     <generator>Hugo</generator>
     <language>be-nl</language>
-    <atom:link href="https://s144272.devops-ap.be/services/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/services/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Gazon maaien</title>
-      <link>https://s144272.devops-ap.be/services/lawn/</link>
+      <link>http://localhost:1313/services/lawn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://s144272.devops-ap.be/services/lawn/</guid>
+      <guid>http://localhost:1313/services/lawn/</guid>
       <description>Een goed onderhouden gazon is de basis van een mooie tuin. Bij Tuinboys zorgen we ervoor dat jouw gras er altijd groen en gezond uitziet. We bieden regelmatig onderhoud en eenmalige maaibeurten, afhankelijk van jouw wensen. Onze service omvat:&#xA;Regelmatig maaien voor een consistent verzorgde uitstraling. Randafwerking om je gazon netjes en strak te houden. Verwijderen van grasresten om je tuin opgeruimd achter te laten. Maak een afspraak Email:&#xD;Adres:&#xD;Datum:&#xD;Tijd:&#xD;Bericht:&#xD;Diensten:&#xD;Gras Maaien&#xD;Haag Scheren&#xD;Hogdruk Reinigen&#xD;Verzenden&#xD;</description>
     </item>
     <item>
       <title>Haag snoeien</title>
-      <link>https://s144272.devops-ap.be/services/hedge/</link>
+      <link>http://localhost:1313/services/hedge/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://s144272.devops-ap.be/services/hedge/</guid>
+      <guid>http://localhost:1313/services/hedge/</guid>
       <description>Goed gesnoeide heggen zorgen voor structuur en schoonheid in je tuin. Bij Tuinboys hebben we de kennis en vaardigheden om jouw heggen in topvorm te houden. Onze heggen snoei service omvat:&#xA;Vormsnoei voor een nette en esthetische uitstraling. Onderhoudssnoei om de groei en gezondheid van je heggen te bevorderen. Verwijderen en opruimen van snoeiafval zodat je tuin schoon blijft. Maak een afspraak Email:&#xD;Adres:&#xD;Datum:&#xD;Tijd:&#xD;Bericht:&#xD;Diensten:&#xD;Gras Maaien&#xD;Haag Scheren&#xD;Hogdruk Reinigen&#xD;Verzenden&#xD;</description>
     </item>
   </channel>

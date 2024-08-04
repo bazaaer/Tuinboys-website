@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tuinboys</title>
-    <link>https://s144272.devops-ap.be/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Tuinboys</description>
     <generator>Hugo</generator>
     <language>be-nl</language>
     <lastBuildDate>Thu, 02 May 2024 12:00:00 +0000</lastBuildDate>
-    <atom:link href="https://s144272.devops-ap.be/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Third Post</title>
-      <link>https://s144272.devops-ap.be/posts/third-post/</link>
+      <link>http://localhost:1313/posts/third-post/</link>
       <pubDate>Thu, 02 May 2024 12:00:00 +0000</pubDate>
-      <guid>https://s144272.devops-ap.be/posts/third-post/</guid>
+      <guid>http://localhost:1313/posts/third-post/</guid>
       <description>This is the summary of the second post.</description>
     </item>
     <item>
       <title>Second Post</title>
-      <link>https://s144272.devops-ap.be/posts/second-post/</link>
+      <link>http://localhost:1313/posts/second-post/</link>
       <pubDate>Fri, 02 Feb 2024 12:00:00 +0000</pubDate>
-      <guid>https://s144272.devops-ap.be/posts/second-post/</guid>
+      <guid>http://localhost:1313/posts/second-post/</guid>
       <description>This is the summary of the second post.</description>
     </item>
     <item>
       <title>First Post</title>
-      <link>https://s144272.devops-ap.be/posts/first-post/</link>
+      <link>http://localhost:1313/posts/first-post/</link>
       <pubDate>Sat, 01 Jan 2022 12:00:00 +0000</pubDate>
-      <guid>https://s144272.devops-ap.be/posts/first-post/</guid>
+      <guid>http://localhost:1313/posts/first-post/</guid>
       <description>This is the summary of the first post.</description>
     </item>
     <item>
       <title>Gazon maaien</title>
-      <link>https://s144272.devops-ap.be/services/lawn/</link>
+      <link>http://localhost:1313/services/lawn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://s144272.devops-ap.be/services/lawn/</guid>
+      <guid>http://localhost:1313/services/lawn/</guid>
       <description>Een goed onderhouden gazon is de basis van een mooie tuin. Bij Tuinboys zorgen we ervoor dat jouw gras er altijd groen en gezond uitziet. We bieden regelmatig onderhoud en eenmalige maaibeurten, afhankelijk van jouw wensen. Onze service omvat:&#xA;Regelmatig maaien voor een consistent verzorgde uitstraling. Randafwerking om je gazon netjes en strak te houden. Verwijderen van grasresten om je tuin opgeruimd achter te laten. Maak een afspraak Email:&#xD;Adres:&#xD;Datum:&#xD;Tijd:&#xD;Bericht:&#xD;Diensten:&#xD;Gras Maaien&#xD;Haag Scheren&#xD;Hogdruk Reinigen&#xD;Verzenden&#xD;</description>
     </item>
     <item>
       <title>Haag snoeien</title>
-      <link>https://s144272.devops-ap.be/services/hedge/</link>
+      <link>http://localhost:1313/services/hedge/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://s144272.devops-ap.be/services/hedge/</guid>
+      <guid>http://localhost:1313/services/hedge/</guid>
       <description>Goed gesnoeide heggen zorgen voor structuur en schoonheid in je tuin. Bij Tuinboys hebben we de kennis en vaardigheden om jouw heggen in topvorm te houden. Onze heggen snoei service omvat:&#xA;Vormsnoei voor een nette en esthetische uitstraling. Onderhoudssnoei om de groei en gezondheid van je heggen te bevorderen. Verwijderen en opruimen van snoeiafval zodat je tuin schoon blijft. Maak een afspraak Email:&#xD;Adres:&#xD;Datum:&#xD;Tijd:&#xD;Bericht:&#xD;Diensten:&#xD;Gras Maaien&#xD;Haag Scheren&#xD;Hogdruk Reinigen&#xD;Verzenden&#xD;</description>
     </item>
     <item>
       <title>Hugo Scroll License</title>
-      <link>https://s144272.devops-ap.be/license/</link>
+      <link>http://localhost:1313/license/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://s144272.devops-ap.be/license/</guid>
+      <guid>http://localhost:1313/license/</guid>
       <description>The MIT License (MIT)&#xA;Copyright (c) 2020 Jan Raasch&#xA;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &amp;ldquo;Software&amp;rdquo;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:</description>
     </item>
     <item>
       <title>Juridische Informatie</title>
-      <link>https://s144272.devops-ap.be/legal/</link>
+      <link>http://localhost:1313/legal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://s144272.devops-ap.be/legal/</guid>
+      <guid>http://localhost:1313/legal/</guid>
       <description>Bedrijfsgegevens Bedrijfsnaam: Tuinboys&#xA;Adres: Telefoonnummer: +32 475 94 39 77 E-mailadres: lander@vanderstighelen.net KvK-nummer: BTW-nummer:&#xA;Algemene Voorwaarden Diensten: Tuinboys biedt diensten aan op het gebied van tuinonderhoud, waaronder gazon maaien en heggen snoeien. De exacte aard en omvang van de diensten worden vastgelegd in de overeenkomst met de klant. Prijzen: Alle prijzen zijn inclusief BTW, tenzij anders vermeld. Tuinboys behoudt zich het recht voor om prijzen te wijzigen, maar eventuele wijzigingen worden vooraf met de klant gecommuniceerd.</description>
     </item>
   </channel>
