@@ -1,0 +1,31 @@
+<!-- layouts/shortcodes/team-members.html -->
+<div class="team-members-container">
+    {{ range .Site.Params.team }}
+    <div class="col-sm-4">
+        <div class="team-member">
+            <img src="{{ .image }}" alt="{{ .name }}">
+            <h4>{{ .name }}</h4>
+        </div>
+    </div>
+    {{ end }}
+</div>
+
+<style>
+    .team-members-container {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+    .team-member img {
+        border-radius: 50%;
+        width: 200px;
+        height: 200px;
+        object-fit: cover;
+    }
+
+    .team-member h4 {
+        margin-top: 1rem;
+        text-align: center;
+        font-size: 2.5rem;
+    }
+</style>

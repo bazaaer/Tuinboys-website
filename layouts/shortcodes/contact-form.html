@@ -1,0 +1,131 @@
+<!-- modify this form HTML and place wherever you want your form -->
+<form
+  action="https://formspree.io/f/xnnadwyp"
+  method="POST"
+>
+<label>
+    Email:
+    <input type="email" name="email" required>
+  </label>
+  <br>
+  <label>
+    Adres:
+    <input type="text" name="address" required>
+  </label>
+  <br>
+  <label>
+    Datum:
+    <input type="date" name="date" id="datePicker" required>
+    <span class="error" id="dateError"></span>
+  </label>
+  <br>
+  <label>
+    Tijd:
+    <input type="time" name="time" id="timePicker" required>
+    <span class="error" id="timeError"></span>
+  </label>
+  <br>
+  <label>
+    Bericht:
+    <textarea name="message" required></textarea>
+  </label>
+  <br>
+  <fieldset>
+    <legend>Diensten:</legend>
+    <label>
+      <input type="checkbox" name="services" value="gras maaien">
+      Gras Maaien
+    </label>
+    <br>
+    <label>
+      <input type="checkbox" name="services" value="haag scheren">
+      Haag Scheren
+    </label>
+    <br>
+    <label>
+      <input type="checkbox" name="services" value="hogdruk reinigen">
+      Hogdruk Reinigen
+    </label>
+  </fieldset>
+  <br>
+  <button type="submit">Verzenden</button>
+</form>
+
+<script>
+  function disableDates(date) {
+    var day = date.getUTCDay();
+    // Days 0 (Sunday), 2 (Tuesday), 4 (Thursday), 5 (Friday) are disabled
+    return (day === 0 || day === 2 || day === 4 || day === 5);
+  }
+
+  function setupDatePicker() {
+    var datePicker = document.getElementById('datePicker');
+    var dateError = document.getElementById('dateError');
+    datePicker.addEventListener('input', function() {
+      var date = new Date(this.value);
+      if (disableDates(date)) {
+        dateError.textContent = 'Selecteer een datum die op een maandag, woensdag of zaterdag valt.';
+        this.value = '';
+      } else {
+        dateError.textContent = '';
+      }
+    });
+  }
+
+  function setupTimePicker() {
+    var timePicker = document.getElementById('timePicker');
+    var timeError = document.getElementById('timeError');
+    timePicker.addEventListener('input', function() {
+      var time = this.value.split(':');
+      var hours = parseInt(time[0]);
+      var minutes = parseInt(time[1]);
+      if (hours < 10 || (hours >= 16 && minutes > 0)) {
+        timeError.textContent = 'Selecteer een tijd tussen 10:00 en 16:00.';
+        this.value = '';
+      } else {
+        timeError.textContent = '';
+      }
+    });
+  }
+
+  document.addEventListener('DOMContentLoaded', function() {
+    setupDatePicker();
+    setupTimePicker();
+  });
+</script>
+
+<style>
+    form {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+label {
+    display: block;
+    margin: 0.5em 0 0.2em;
+}
+
+input[type="text"],
+input[type="email"],
+textarea {
+    width: 100%;
+    padding: 0.5em;
+    margin-bottom: 1em;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+input[type="submit"] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 0.5em 1em;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover {
+    background-color: #45a049;
+}
+
+</style>
